@@ -17,6 +17,7 @@ code {
 }
 .main-content {
   display: flex;
+
   height: 10rem;
   width: 10rem;
   padding: 2rem;
@@ -25,5 +26,10 @@ code {
   border-radius: 1rem;
   background: var(--theme-page-text);
   color: var(--theme-page-background);
-  margin-right: 1rem;
+  margin-right: 1.5rem;
+}
+.main-content:hover {
+  transform: scale(1.1);
+  transition: 1s;
+  cursor: pointer;
 }

@@ -3,6 +3,7 @@
   font-family: "Montserrat", sans-serif;
   height: 100vh;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
   align-items: center;
@@ -15,6 +16,7 @@
   --theme-page-text: #111;
   --theme-button-background: var(--theme-page-text);
   --theme-button-text: var(--theme-page-background);
+  --link-colrs: rgb(255, 121, 43);
 }
 
 .dark {
@@ -22,12 +24,13 @@
   --theme-page-text: #fff;
   --theme-button-background: var(--theme-page-text);
   --theme-button-text: var(--theme-page-background);
+  --link-colrs: rgb(43, 135, 255);
 }
 .buttons {
   padding: 0.75rem;
-  border-radius: 1rem;
+  border-radius: 0.8rem;
   font-weight: 500;
-  width: 5rem;
+  width: 7rem;
   cursor: pointer;
   font-family: "Montserrat", sans-serif;
   border: transparent;
@@ -36,21 +39,6 @@
   background: var(--theme-button-background);
   color: var(--theme-button-text);
 }
-.cirlces {
-  border-radius: 100%;
-  height: 5rem;
-  width: 5rem;
-  position: relative;
-  top: 10rem;
-  left: 10rem;
-  background: #3b89ac;
-}
-.squares {
-  border-radius: 10%;
-  height: 5rem;
-  width: 5rem;
-  position: relative;
-  top: 2rem;
-  left: 1rem;
-  background: #ffa700;
+a {
+  color: var(--link-colrs);
 }
