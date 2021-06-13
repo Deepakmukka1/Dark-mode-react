@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Dark-mode-react/static/css/main.3c29427d.chunk.css",
-    "main.js": "/Dark-mode-react/static/js/main.d7eb168a.chunk.js",
-    "main.js.map": "/Dark-mode-react/static/js/main.d7eb168a.chunk.js.map",
+    "main.css": "/Dark-mode-react/static/css/main.5bf50ac7.chunk.css",
+    "main.js": "/Dark-mode-react/static/js/main.f6e8cd0a.chunk.js",
+    "main.js.map": "/Dark-mode-react/static/js/main.f6e8cd0a.chunk.js.map",
     "runtime-main.js": "/Dark-mode-react/static/js/runtime-main.d9c8a5c0.js",
     "runtime-main.js.map": "/Dark-mode-react/static/js/runtime-main.d9c8a5c0.js.map",
     "static/js/2.04a28e36.chunk.js": "/Dark-mode-react/static/js/2.04a28e36.chunk.js",
     "static/js/2.04a28e36.chunk.js.map": "/Dark-mode-react/static/js/2.04a28e36.chunk.js.map",
     "index.html": "/Dark-mode-react/index.html",
-    "static/css/main.3c29427d.chunk.css.map": "/Dark-mode-react/static/css/main.3c29427d.chunk.css.map",
+    "static/css/main.5bf50ac7.chunk.css.map": "/Dark-mode-react/static/css/main.5bf50ac7.chunk.css.map",
     "static/js/2.04a28e36.chunk.js.LICENSE.txt": "/Dark-mode-react/static/js/2.04a28e36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d9c8a5c0.js",
     "static/js/2.04a28e36.chunk.js",
-    "static/css/main.3c29427d.chunk.css",
-    "static/js/main.d7eb168a.chunk.js"
+    "static/css/main.5bf50ac7.chunk.css",
+    "static/js/main.f6e8cd0a.chunk.js"
   ]
 }
