@@ -1,38 +1,56 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  font-family: "Montserrat", sans-serif;
+  height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-direction: row;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  transition: 0.5s;
+  background: var(--theme-page-background);
+  color: var(--theme-page-text);
+}
+.light {
+  --theme-page-background: #fff;
+  --theme-page-text: #111;
+  --theme-button-background: var(--theme-page-text);
+  --theme-button-text: var(--theme-page-background);
 }
 
-.App-link {
-  color: #61dafb;
+.dark {
+  --theme-page-background: #111;
+  --theme-page-text: #fff;
+  --theme-button-background: var(--theme-page-text);
+  --theme-button-text: var(--theme-page-background);
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.buttons {
+  padding: 0.75rem;
+  border-radius: 1rem;
+  font-weight: 500;
+  width: 5rem;
+  cursor: pointer;
+  font-family: "Montserrat", sans-serif;
+  border: transparent;
+  position: absolute;
+  top: 1rem;
+  background: var(--theme-button-background);
+  color: var(--theme-button-text);
+}
+.cirlces {
+  border-radius: 100%;
+  height: 5rem;
+  width: 5rem;
+  position: relative;
+  top: 10rem;
+  left: 10rem;
+  background: #3b89ac;
+}
+.squares {
+  border-radius: 10%;
+  height: 5rem;
+  width: 5rem;
+  position: relative;
+  top: 2rem;
+  left: 1rem;
+  background: #ffa700;
 }
