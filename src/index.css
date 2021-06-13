@@ -17,10 +17,13 @@ code {
 }
 .main-content {
   display: flex;
-
   height: 10rem;
   width: 10rem;
   padding: 2rem;
+  text-align: center;
+  line-height: 2.5rem;
+  word-wrap: break-word;
+  font-size: 0.7rem;
   justify-content: center;
   align-items: center;
   border-radius: 1rem;
