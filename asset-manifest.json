@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Deepakmukka1/Dark-mode-react/static/css/main.3c29427d.chunk.css",
-    "main.js": "/Deepakmukka1/Dark-mode-react/static/js/main.d7eb168a.chunk.js",
-    "main.js.map": "/Deepakmukka1/Dark-mode-react/static/js/main.d7eb168a.chunk.js.map",
-    "runtime-main.js": "/Deepakmukka1/Dark-mode-react/static/js/runtime-main.3f7fdfe1.js",
-    "runtime-main.js.map": "/Deepakmukka1/Dark-mode-react/static/js/runtime-main.3f7fdfe1.js.map",
-    "static/js/2.04a28e36.chunk.js": "/Deepakmukka1/Dark-mode-react/static/js/2.04a28e36.chunk.js",
-    "static/js/2.04a28e36.chunk.js.map": "/Deepakmukka1/Dark-mode-react/static/js/2.04a28e36.chunk.js.map",
-    "index.html": "/Deepakmukka1/Dark-mode-react/index.html",
-    "static/css/main.3c29427d.chunk.css.map": "/Deepakmukka1/Dark-mode-react/static/css/main.3c29427d.chunk.css.map",
-    "static/js/2.04a28e36.chunk.js.LICENSE.txt": "/Deepakmukka1/Dark-mode-react/static/js/2.04a28e36.chunk.js.LICENSE.txt"
+    "main.css": "/Dark-mode-react/static/css/main.3c29427d.chunk.css",
+    "main.js": "/Dark-mode-react/static/js/main.d7eb168a.chunk.js",
+    "main.js.map": "/Dark-mode-react/static/js/main.d7eb168a.chunk.js.map",
+    "runtime-main.js": "/Dark-mode-react/static/js/runtime-main.d9c8a5c0.js",
+    "runtime-main.js.map": "/Dark-mode-react/static/js/runtime-main.d9c8a5c0.js.map",
+    "static/js/2.04a28e36.chunk.js": "/Dark-mode-react/static/js/2.04a28e36.chunk.js",
+    "static/js/2.04a28e36.chunk.js.map": "/Dark-mode-react/static/js/2.04a28e36.chunk.js.map",
+    "index.html": "/Dark-mode-react/index.html",
+    "static/css/main.3c29427d.chunk.css.map": "/Dark-mode-react/static/css/main.3c29427d.chunk.css.map",
+    "static/js/2.04a28e36.chunk.js.LICENSE.txt": "/Dark-mode-react/static/js/2.04a28e36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f7fdfe1.js",
+    "static/js/runtime-main.d9c8a5c0.js",
     "static/js/2.04a28e36.chunk.js",
     "static/css/main.3c29427d.chunk.css",
     "static/js/main.d7eb168a.chunk.js"
